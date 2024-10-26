@@ -12,3 +12,9 @@ git clone https://github.com/PredictiveManish/Youtube-playlist-downloader
 ```
 ![Cloning](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1729935921/Screenshot_2024-10-26_145149_wfnylj.png)
 
+3. Entering into project:
+After cloning project get into the directory of project to access file so use 
+```
+cd "Path"
+```
+![Directory-access](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1729935920/Screenshot_2024-10-26_150119_ub2hfa.png)
