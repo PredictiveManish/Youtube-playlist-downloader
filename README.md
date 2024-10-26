@@ -25,3 +25,6 @@ Run the following command:
 python main.py
 ```
 ![Running-Python-File](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1729935920/Screenshot_2024-10-26_150131_l4plre.png)
+
+# Tip: If you face any error somewhat like 'ffmpeg' not found. Go to following link and close terminal and open again with step 3 and start again and this time you will found out that the issue will be gone and if you face any other issue try to copy and pasting it in chatgpt and get the solution or contact me at manisht0914@gmail.com. 
+
