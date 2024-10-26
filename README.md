@@ -18,3 +18,10 @@ After cloning project get into the directory of project to access file so use
 cd Youtube-playlist-downloader
 ```
 ![Directory-access](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1729935920/Screenshot_2024-10-26_150119_ub2hfa.png)
+
+4. Running the command: 
+Run the following command:
+```
+python main.py
+```
+![Running-Python-File](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1729935920/Screenshot_2024-10-26_150131_l4plre.png)
