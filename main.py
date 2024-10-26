@@ -1,7 +1,7 @@
 import yt_dlp
 import os
 
-DOWNLOAD_PATH = "C:\Downloads"
+DOWNLOAD_PATH = "Downloads"
 # Enter your file destination you want to store the videos.
 
 def download_youtube_playlist(playlist_url):
