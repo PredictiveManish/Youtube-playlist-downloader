@@ -1,5 +1,5 @@
 # Youtube-playlist-downloader
-
+A command line interface based youtube playlist downloader.
 ## 1. Clone the repo:
 
 If you know then it's good but if you don't know it's more as you will learn a new thing.
