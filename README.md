@@ -28,3 +28,6 @@ python main.py
 
 # Tip: If you face any error somewhat like 'ffmpeg' not found. Go to following link and close terminal and open again with step 3 and start again and this time you will found out that the issue will be gone and if you face any other issue try to copy and pasting it in chatgpt and get the solution or contact me at manisht0914@gmail.com. 
 
+5. Paste link and get start downloader.
+
+# Thanks 
