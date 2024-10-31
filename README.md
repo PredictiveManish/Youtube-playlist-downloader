@@ -31,8 +31,7 @@ python main.py
 5. Paste link and get start downloader.
 
 # Thanks 
-6. 
-This downloader is a command line based downloader, so using it might be a little bit complex but it is completely free and ad-free and can be used from anywhere you just needs to be connected with internet.
+6. This downloader is a command line based downloader, so using it might be a little bit complex but it is completely free and ad-free and can be used from anywhere you just needs to be connected with internet.
 
 ```
 Website version soon
