@@ -32,4 +32,8 @@ python main.py
 
 # Thanks 
 6. 
-This downloader is a command line based downloader, so using it might be difficult but it is completely free and ad-free and can be used from anywhere you just needs to be connected with internet.
+This downloader is a command line based downloader, so using it might be a little bit complex but it is completely free and ad-free and can be used from anywhere you just needs to be connected with internet.
+
+```
+Website version soon
+```
